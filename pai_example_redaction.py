@@ -17,7 +17,7 @@ import json
 API_KEY = dbutils.secrets.get(scope = "privateai", key = "demoapi")
 headers = {"Content-Type": "application/json",
             "X-API-KEY": API_KEY}
-url = "https://app-deid-staging-east001.azurewebsites.net/v3/process/text"
+url = dbutils.secrets.get(scope = "privateai", key = "url")
 
 # COMMAND ----------
 
