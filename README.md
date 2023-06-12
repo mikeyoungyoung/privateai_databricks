@@ -10,4 +10,4 @@ However, there are obvisouly easier ways to handle columns dedicated to storing 
 
 
 # TO-DO
-[ ] Add details on how to fetch file from a URI/URL in a column and get the file
+- [ ] Add details on how to fetch file from a URI/URL in a column and get the file
