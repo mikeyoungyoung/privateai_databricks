@@ -7,3 +7,7 @@ PrivateAI PII/PHI NER models work best when entities have further context around
 </br>
 </br>
 However, there are obvisouly easier ways to handle columns dedicated to storing individual PII/PHI token and dropping or tokenizing the column may be the most appropriate
+
+
+# TO-DO
+[ ] Add details on how to fetch file from a URI/URL in a column and get the file
